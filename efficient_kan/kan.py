@@ -240,7 +240,7 @@ class KANLinear(torch.nn.Module):
 class KAN(torch.nn.Module):
     def __init__(
             self,
-            layers_hidden,
+            layers_hidden,  
             grid_size=5,
             spline_order=3,
             scale_noise=0.1,
