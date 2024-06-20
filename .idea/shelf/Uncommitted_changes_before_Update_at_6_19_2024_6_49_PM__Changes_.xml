@@ -1,0 +1,554 @@
+<changelist name="Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]" date="1718815808478" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Update at 6/19/2024 6:49 PM [Changes]" />
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="checkpoint/SimpleCNN_ep1.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/SimpleCNN_ep1.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="checkpoint/MLP_ep21.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/MLP_ep21.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="checkpoint/MLP_ep7.pth" />
+    <option name="AFTER_PATH" value="checkpoint/MLP_ep7.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/MLP_ep7.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="checkpoint/KAN_small_ep10.pth" />
+    <option name="AFTER_PATH" value="checkpoint/KAN_small_ep10.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/KAN_small_ep10.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="checkpoint/MLP_ep18.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/MLP_ep18.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="checkpoint/MLP_ep2.pth" />
+    <option name="AFTER_PATH" value="checkpoint/MLP_ep2.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/MLP_ep2.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="checkpoint/NormalConvsKAN_ep5.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/NormalConvsKAN_ep5.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="checkpoint/MLP_ep10.pth" />
+    <option name="AFTER_PATH" value="checkpoint/MLP_ep10.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/MLP_ep10.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="checkpoint/KAN_small_ep23.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/KAN_small_ep23.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="checkpoint/KANC_MLP_ep6.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/KANC_MLP_ep6.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="checkpoint/KKAN_Convolutional_Network_ep2.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/KKAN_Convolutional_Network_ep2.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="checkpoint/MLP_ep23.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/MLP_ep23.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="checkpoint/KAN_small_ep4.pth" />
+    <option name="AFTER_PATH" value="checkpoint/KAN_small_ep4.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/KAN_small_ep4.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="checkpoint/ConvNet_ep1.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/ConvNet_ep1.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="checkpoint/NormalConvsKAN_ep7.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/NormalConvsKAN_ep7.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="checkpoint/KAN_small_ep27.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/KAN_small_ep27.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="checkpoint/KAN_small_ep30.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/KAN_small_ep30.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="checkpoint/NormalConvsKAN_ep9.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/NormalConvsKAN_ep9.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="checkpoint/NormalConvsKAN_ep10.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/NormalConvsKAN_ep10.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="checkpoint/MLP_ep25.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/MLP_ep25.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="checkpoint/SimpleCNN_ep10.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/SimpleCNN_ep10.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="checkpoint/KAN_small_ep21.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/KAN_small_ep21.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="checkpoint/MLP_ep6.pth" />
+    <option name="AFTER_PATH" value="checkpoint/MLP_ep6.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/MLP_ep6.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="checkpoint/KKAN_Convolutional_Network_ep7.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/KKAN_Convolutional_Network_ep7.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="checkpoint/ConvNet_ep6.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/ConvNet_ep6.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="checkpoint/ConvNet_ep3.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/ConvNet_ep3.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="checkpoint/KANC_MLP_ep2.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/KANC_MLP_ep2.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="checkpoint/NormalConvsKAN_ep3.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/NormalConvsKAN_ep3.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="checkpoint/KANC_MLP_ep8.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/KANC_MLP_ep8.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="checkpoint/KKAN_Convolutional_Network_ep4.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/KKAN_Convolutional_Network_ep4.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="checkpoint/KAN_small_ep11.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/KAN_small_ep11.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="checkpoint/MLP_ep16.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/MLP_ep16.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="checkpoint/KANC_MLP_ep1.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/KANC_MLP_ep1.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="checkpoint/MLP_ep26.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/MLP_ep26.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="checkpoint/MLP_ep30.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/MLP_ep30.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="checkpoint/KAN_small_ep7.pth" />
+    <option name="AFTER_PATH" value="checkpoint/KAN_small_ep7.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/KAN_small_ep7.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="checkpoint/NormalConvsKAN_ep1.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/NormalConvsKAN_ep1.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="checkpoint/MLP_ep28.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/MLP_ep28.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="checkpoint/SimpleCNN_ep8.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/SimpleCNN_ep8.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="checkpoint/KAN_small_ep18.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/KAN_small_ep18.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="checkpoint/KKAN_Convolutional_Network_ep8.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/KKAN_Convolutional_Network_ep8.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="checkpoint/MLP_ep12.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/MLP_ep12.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="checkpoint/ConvNet_ep7.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/ConvNet_ep7.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="checkpoint/KAN_small_ep29.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/KAN_small_ep29.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="checkpoint/KKAN_Convolutional_Network_ep3.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/KKAN_Convolutional_Network_ep3.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="checkpoint/KAN_small_ep13.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/KAN_small_ep13.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="checkpoint/KKAN_Convolutional_Network_ep9.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/KKAN_Convolutional_Network_ep9.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="checkpoint/KAN_small_ep19.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/KAN_small_ep19.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="checkpoint/NormalConvsKAN_ep8.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/NormalConvsKAN_ep8.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="checkpoint/MLP_ep9.pth" />
+    <option name="AFTER_PATH" value="checkpoint/MLP_ep9.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/MLP_ep9.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="checkpoint/ConvNet_ep8.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/ConvNet_ep8.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="checkpoint/SimpleCNN_ep9.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/SimpleCNN_ep9.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="checkpoint/ConvNet_ep2.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/ConvNet_ep2.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="checkpoint/KAN_small_ep28.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/KAN_small_ep28.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="checkpoint/SimpleCNN_ep3.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/SimpleCNN_ep3.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="checkpoint/NormalConvsKAN_ep2.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/NormalConvsKAN_ep2.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="checkpoint/KAN_small_ep9.pth" />
+    <option name="AFTER_PATH" value="checkpoint/KAN_small_ep9.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/KAN_small_ep9.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="checkpoint/MLP_ep11.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/MLP_ep11.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="checkpoint/KAN_small_ep2.pth" />
+    <option name="AFTER_PATH" value="checkpoint/KAN_small_ep2.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/KAN_small_ep2.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="checkpoint/KAN_small_ep22.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/KAN_small_ep22.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="checkpoint/MLP_ep27.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/MLP_ep27.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="checkpoint/NormalConvsKAN_ep6.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/NormalConvsKAN_ep6.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="checkpoint/MLP_ep22.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/MLP_ep22.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="checkpoint/KAN_small_ep6.pth" />
+    <option name="AFTER_PATH" value="checkpoint/KAN_small_ep6.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/KAN_small_ep6.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="checkpoint/KAN_small_ep24.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/KAN_small_ep24.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="checkpoint/KANC_MLP_ep7.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/KANC_MLP_ep7.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="checkpoint/KKAN_Convolutional_Network_ep10.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/KKAN_Convolutional_Network_ep10.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="checkpoint/MLP_ep17.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/MLP_ep17.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="checkpoint/NormalConvsKAN_ep4.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/NormalConvsKAN_ep4.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="checkpoint/KANC_MLP_ep9.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/KANC_MLP_ep9.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="checkpoint/SimpleCNN_ep2.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/SimpleCNN_ep2.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="checkpoint/MLP_ep4.pth" />
+    <option name="AFTER_PATH" value="checkpoint/MLP_ep4.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/MLP_ep4.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="checkpoint/KAN_small_ep12.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/KAN_small_ep12.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="checkpoint/MLP_ep20.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/MLP_ep20.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="checkpoint/KAN_small_ep26.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/KAN_small_ep26.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="checkpoint/KAN_small_ep1.pth" />
+    <option name="AFTER_PATH" value="checkpoint/KAN_small_ep1.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/KAN_small_ep1.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="checkpoint/MLP_ep29.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/MLP_ep29.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="checkpoint/MLP_ep5.pth" />
+    <option name="AFTER_PATH" value="checkpoint/MLP_ep5.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/MLP_ep5.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="checkpoint/ConvNet_ep9.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/ConvNet_ep9.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="checkpoint/KAN_small_ep17.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/KAN_small_ep17.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="checkpoint/KAN_small_ep5.pth" />
+    <option name="AFTER_PATH" value="checkpoint/KAN_small_ep5.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/KAN_small_ep5.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="checkpoint/KAN_small_ep14.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/KAN_small_ep14.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="checkpoint/KANC_MLP_ep5.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/KANC_MLP_ep5.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="checkpoint/MLP_ep19.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/MLP_ep19.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="checkpoint/KKAN_Convolutional_Network_ep1.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/KKAN_Convolutional_Network_ep1.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="checkpoint/SimpleCNN_ep4.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/SimpleCNN_ep4.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="checkpoint/KKAN_Convolutional_Network_ep6.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/KKAN_Convolutional_Network_ep6.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="checkpoint/SimpleCNN_ep7.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/SimpleCNN_ep7.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="checkpoint/KANC_MLP_ep10.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/KANC_MLP_ep10.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="checkpoint/MLP_ep13.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/MLP_ep13.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="checkpoint/SimpleCNN_ep6.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/SimpleCNN_ep6.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="checkpoint/ConvNet_ep5.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/ConvNet_ep5.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="checkpoint/MLP_ep8.pth" />
+    <option name="AFTER_PATH" value="checkpoint/MLP_ep8.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/MLP_ep8.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="checkpoint/KAN_small_ep16.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/KAN_small_ep16.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="checkpoint/ConvNet_ep10.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/ConvNet_ep10.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="checkpoint/MLP_ep14.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/MLP_ep14.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="checkpoint/SimpleCNN_ep5.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/SimpleCNN_ep5.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="checkpoint/KANC_MLP_ep3.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/KANC_MLP_ep3.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="checkpoint/KKAN_Convolutional_Network_ep5.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/KKAN_Convolutional_Network_ep5.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="checkpoint/KAN_small_ep20.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/KAN_small_ep20.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="checkpoint/MLP_ep1.pth" />
+    <option name="AFTER_PATH" value="checkpoint/MLP_ep1.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/MLP_ep1.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="checkpoint/KAN_small_ep15.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/KAN_small_ep15.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="checkpoint/ConvNet_ep4.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/ConvNet_ep4.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="checkpoint/KANC_MLP_ep4.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/KANC_MLP_ep4.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="checkpoint/MLP_ep24.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/MLP_ep24.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="checkpoint/KAN_small_ep8.pth" />
+    <option name="AFTER_PATH" value="checkpoint/KAN_small_ep8.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/KAN_small_ep8.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="checkpoint/MLP_ep15.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/MLP_ep15.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="checkpoint/KAN_small_ep3.pth" />
+    <option name="AFTER_PATH" value="checkpoint/KAN_small_ep3.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/KAN_small_ep3.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="checkpoint/KAN_small_ep25.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/KAN_small_ep25.pth" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="checkpoint/MLP_ep3.pth" />
+    <option name="AFTER_PATH" value="checkpoint/MLP_ep3.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_19_2024_6_49_PM_[Changes]/MLP_ep3.pth" />
+  </binary>
+</changelist>
