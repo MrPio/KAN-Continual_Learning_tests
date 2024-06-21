@@ -4,280 +4,151 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d94b0c3f-4622-4bc5-b5ef-3754a76d641d" name="Changes" comment="Some other INTER tests">
-      <change afterPath="$PROJECT_DIR$/MLPl_lr.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-3/MLP_epoch0.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-3/MLP_epoch1.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-3/MLP_epoch10.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-3/MLP_epoch11.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-3/MLP_epoch12.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-3/MLP_epoch13.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-3/MLP_epoch14.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-3/MLP_epoch15.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-3/MLP_epoch2.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-3/MLP_epoch3.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-3/MLP_epoch4.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-3/MLP_epoch5.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-3/MLP_epoch6.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-3/MLP_epoch7.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-3/MLP_epoch8.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-3/MLP_epoch9.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-4/KAN_small_epoch0.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-4/KAN_small_epoch1.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-4/KAN_small_epoch10.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-4/KAN_small_epoch11.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-4/KAN_small_epoch12.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-4/KAN_small_epoch13.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-4/KAN_small_epoch14.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-4/KAN_small_epoch15.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-4/KAN_small_epoch16.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-4/KAN_small_epoch17.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-4/KAN_small_epoch18.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-4/KAN_small_epoch19.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-4/KAN_small_epoch2.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-4/KAN_small_epoch20.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-4/KAN_small_epoch21.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-4/KAN_small_epoch22.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-4/KAN_small_epoch23.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-4/KAN_small_epoch24.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-4/KAN_small_epoch25.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-4/KAN_small_epoch26.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-4/KAN_small_epoch27.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-4/KAN_small_epoch28.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-4/KAN_small_epoch29.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-4/KAN_small_epoch3.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-4/KAN_small_epoch4.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-4/KAN_small_epoch5.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-4/KAN_small_epoch6.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-4/KAN_small_epoch7.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-4/KAN_small_epoch8.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-4/KAN_small_epoch9.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-4/MLP_epoch0.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-4/MLP_epoch1.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-4/MLP_epoch10.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-4/MLP_epoch11.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-4/MLP_epoch12.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-4/MLP_epoch13.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-4/MLP_epoch14.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-4/MLP_epoch15.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-4/MLP_epoch16.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-4/MLP_epoch17.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-4/MLP_epoch18.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-4/MLP_epoch19.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-4/MLP_epoch2.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-4/MLP_epoch20.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-4/MLP_epoch21.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-4/MLP_epoch22.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-4/MLP_epoch23.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-4/MLP_epoch24.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-4/MLP_epoch25.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-4/MLP_epoch26.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-4/MLP_epoch27.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-4/MLP_epoch28.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-4/MLP_epoch29.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-4/MLP_epoch3.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-4/MLP_epoch4.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-4/MLP_epoch5.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-4/MLP_epoch6.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-4/MLP_epoch7.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-4/MLP_epoch8.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-4/MLP_epoch9.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/KAN_small_epoch0.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/KAN_small_epoch1.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/KAN_small_epoch10.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/KAN_small_epoch11.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/KAN_small_epoch12.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/KAN_small_epoch13.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/KAN_small_epoch14.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/KAN_small_epoch15.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/KAN_small_epoch16.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/KAN_small_epoch17.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/KAN_small_epoch18.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/KAN_small_epoch19.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/KAN_small_epoch2.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/KAN_small_epoch20.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/KAN_small_epoch21.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/KAN_small_epoch22.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/KAN_small_epoch23.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/KAN_small_epoch24.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/KAN_small_epoch25.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/KAN_small_epoch26.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/KAN_small_epoch27.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/KAN_small_epoch28.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/KAN_small_epoch29.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/KAN_small_epoch3.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/KAN_small_epoch4.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/KAN_small_epoch5.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/KAN_small_epoch6.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/KAN_small_epoch7.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/KAN_small_epoch8.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/KAN_small_epoch9.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/MLP_epoch0.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/MLP_epoch1.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/MLP_epoch10.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/MLP_epoch11.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/MLP_epoch12.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/MLP_epoch13.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/MLP_epoch14.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/MLP_epoch15.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/MLP_epoch16.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/MLP_epoch17.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/MLP_epoch18.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/MLP_epoch19.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/MLP_epoch2.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/MLP_epoch20.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/MLP_epoch21.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/MLP_epoch22.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/MLP_epoch23.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/MLP_epoch24.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/MLP_epoch25.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/MLP_epoch26.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/MLP_epoch27.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/MLP_epoch28.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/MLP_epoch29.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/MLP_epoch3.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/MLP_epoch4.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/MLP_epoch5.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/MLP_epoch6.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/MLP_epoch7.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/MLP_epoch8.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/MLP_epoch9.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-6/KAN_small_epoch0.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-6/KAN_small_epoch1.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-6/KAN_small_epoch10.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-6/KAN_small_epoch11.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-6/KAN_small_epoch12.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-6/KAN_small_epoch13.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-6/KAN_small_epoch14.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-6/KAN_small_epoch15.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-6/KAN_small_epoch16.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-6/KAN_small_epoch17.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-6/KAN_small_epoch18.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-6/KAN_small_epoch19.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-6/KAN_small_epoch2.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-6/KAN_small_epoch20.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-6/KAN_small_epoch21.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-6/KAN_small_epoch22.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-6/KAN_small_epoch23.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-6/KAN_small_epoch24.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-6/KAN_small_epoch25.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-6/KAN_small_epoch26.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-6/KAN_small_epoch27.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-6/KAN_small_epoch28.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-6/KAN_small_epoch29.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-6/KAN_small_epoch3.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-6/KAN_small_epoch4.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-6/KAN_small_epoch5.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-6/KAN_small_epoch6.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-6/KAN_small_epoch7.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-6/KAN_small_epoch8.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-6/KAN_small_epoch9.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-6/MLP_epoch0.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-6/MLP_epoch1.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-6/MLP_epoch10.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-6/MLP_epoch11.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-6/MLP_epoch12.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-6/MLP_epoch13.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-6/MLP_epoch14.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-6/MLP_epoch15.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-6/MLP_epoch16.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-6/MLP_epoch17.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-6/MLP_epoch18.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-6/MLP_epoch19.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-6/MLP_epoch2.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-6/MLP_epoch20.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-6/MLP_epoch21.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-6/MLP_epoch22.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-6/MLP_epoch23.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-6/MLP_epoch24.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-6/MLP_epoch25.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-6/MLP_epoch26.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-6/MLP_epoch27.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-6/MLP_epoch28.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-6/MLP_epoch29.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-6/MLP_epoch3.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-6/MLP_epoch4.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-6/MLP_epoch5.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-6/MLP_epoch6.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-6/MLP_epoch7.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-6/MLP_epoch8.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-6/MLP_epoch9.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-7/KAN_small_epoch0.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-7/KAN_small_epoch1.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-7/KAN_small_epoch10.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-7/KAN_small_epoch11.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-7/KAN_small_epoch12.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-7/KAN_small_epoch13.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-7/KAN_small_epoch14.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-7/KAN_small_epoch15.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-7/KAN_small_epoch16.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-7/KAN_small_epoch17.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-7/KAN_small_epoch18.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-7/KAN_small_epoch19.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-7/KAN_small_epoch2.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-7/KAN_small_epoch20.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-7/KAN_small_epoch21.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-7/KAN_small_epoch22.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-7/KAN_small_epoch23.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-7/KAN_small_epoch24.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-7/KAN_small_epoch25.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-7/KAN_small_epoch26.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-7/KAN_small_epoch27.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-7/KAN_small_epoch28.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-7/KAN_small_epoch29.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-7/KAN_small_epoch3.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-7/KAN_small_epoch4.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-7/KAN_small_epoch5.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-7/KAN_small_epoch6.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-7/KAN_small_epoch7.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-7/KAN_small_epoch8.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-7/KAN_small_epoch9.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-7/MLP_epoch0.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-7/MLP_epoch1.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-7/MLP_epoch10.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-7/MLP_epoch11.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-7/MLP_epoch12.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-7/MLP_epoch13.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-7/MLP_epoch14.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-7/MLP_epoch15.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-7/MLP_epoch16.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-7/MLP_epoch17.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-7/MLP_epoch18.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-7/MLP_epoch19.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-7/MLP_epoch2.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-7/MLP_epoch20.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-7/MLP_epoch21.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-7/MLP_epoch22.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-7/MLP_epoch23.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-7/MLP_epoch24.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-7/MLP_epoch25.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-7/MLP_epoch26.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-7/MLP_epoch27.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-7/MLP_epoch28.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-7/MLP_epoch29.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-7/MLP_epoch3.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-7/MLP_epoch4.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-7/MLP_epoch5.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-7/MLP_epoch6.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-7/MLP_epoch7.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-7/MLP_epoch8.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-7/MLP_epoch9.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_lr/KAN_lr_0.0001.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_lr/KAN_lr_0.001.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_lr/KAN_lr_0.01.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_lr/KAN_lr_1e-05.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_lr/MLP_lr_0.0001.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_lr/MLP_lr_0.001.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_lr/MLP_lr_0.01.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint_lr/MLP_lr_1e-05.pkl" afterDir="false" />
+    <list default="true" id="d94b0c3f-4622-4bc5-b5ef-3754a76d641d" name="Changes" comment="Tests concluded">
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-3/KANvolver_epoch0.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-3/KANvolver_epoch1.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-3/KANvolver_epoch2.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-3/KANvolver_epoch3.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-3/KANvolver_epoch4.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-3/KANvolver_epoch5.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-4/KANvolver_epoch0.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-4/KANvolver_epoch1.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/CKAN_BN_epoch0.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/CKAN_BN_epoch1.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/CKAN_BN_epoch10.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/CKAN_BN_epoch11.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/CKAN_BN_epoch12.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/CKAN_BN_epoch13.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/CKAN_BN_epoch14.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/CKAN_BN_epoch15.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/CKAN_BN_epoch16.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/CKAN_BN_epoch17.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/CKAN_BN_epoch18.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/CKAN_BN_epoch19.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/CKAN_BN_epoch2.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/CKAN_BN_epoch20.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/CKAN_BN_epoch21.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/CKAN_BN_epoch22.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/CKAN_BN_epoch23.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/CKAN_BN_epoch24.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/CKAN_BN_epoch25.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/CKAN_BN_epoch26.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/CKAN_BN_epoch27.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/CKAN_BN_epoch28.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/CKAN_BN_epoch29.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/CKAN_BN_epoch3.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/CKAN_BN_epoch4.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/CKAN_BN_epoch5.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/CKAN_BN_epoch6.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/CKAN_BN_epoch7.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/CKAN_BN_epoch8.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/CKAN_BN_epoch9.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/ConvNet_epoch0.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/ConvNet_epoch1.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/ConvNet_epoch10.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/ConvNet_epoch11.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/ConvNet_epoch12.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/ConvNet_epoch13.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/ConvNet_epoch14.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/ConvNet_epoch15.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/ConvNet_epoch16.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/ConvNet_epoch17.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/ConvNet_epoch18.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/ConvNet_epoch19.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/ConvNet_epoch2.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/ConvNet_epoch20.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/ConvNet_epoch21.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/ConvNet_epoch22.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/ConvNet_epoch23.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/ConvNet_epoch24.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/ConvNet_epoch25.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/ConvNet_epoch26.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/ConvNet_epoch27.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/ConvNet_epoch28.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/ConvNet_epoch29.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/ConvNet_epoch3.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/ConvNet_epoch4.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/ConvNet_epoch5.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/ConvNet_epoch6.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/ConvNet_epoch7.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/ConvNet_epoch8.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/ConvNet_epoch9.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/KANC_MLP_epoch0.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/KANC_MLP_epoch1.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/KANC_MLP_epoch10.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/KANC_MLP_epoch11.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/KANC_MLP_epoch12.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/KANC_MLP_epoch13.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/KANC_MLP_epoch14.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/KANC_MLP_epoch15.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/KANC_MLP_epoch16.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/KANC_MLP_epoch17.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/KANC_MLP_epoch18.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/KANC_MLP_epoch19.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/KANC_MLP_epoch2.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/KANC_MLP_epoch20.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/KANC_MLP_epoch21.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/KANC_MLP_epoch22.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/KANC_MLP_epoch23.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/KANC_MLP_epoch24.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/KANC_MLP_epoch25.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/KANC_MLP_epoch26.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/KANC_MLP_epoch27.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/KANC_MLP_epoch28.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/KANC_MLP_epoch29.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/KANC_MLP_epoch3.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/KANC_MLP_epoch4.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/KANC_MLP_epoch5.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/KANC_MLP_epoch6.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/KANC_MLP_epoch7.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/KANC_MLP_epoch8.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/KANC_MLP_epoch9.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/KANvolver_epoch0.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/KANvolver_epoch1.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/KKAN_Convolutional_Network_epoch0.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/KKAN_Convolutional_Network_epoch1.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/KKAN_Convolutional_Network_epoch10.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/KKAN_Convolutional_Network_epoch2.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/KKAN_Convolutional_Network_epoch3.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/KKAN_Convolutional_Network_epoch4.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/KKAN_Convolutional_Network_epoch5.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/KKAN_Convolutional_Network_epoch6.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/KKAN_Convolutional_Network_epoch7.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/KKAN_Convolutional_Network_epoch8.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/KKAN_Convolutional_Network_epoch9.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/NormalConvsKAN_epoch0.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/NormalConvsKAN_epoch1.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/NormalConvsKAN_epoch10.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/NormalConvsKAN_epoch11.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/NormalConvsKAN_epoch12.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/NormalConvsKAN_epoch13.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/NormalConvsKAN_epoch14.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/NormalConvsKAN_epoch15.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/NormalConvsKAN_epoch16.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/NormalConvsKAN_epoch17.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/NormalConvsKAN_epoch18.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/NormalConvsKAN_epoch19.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/NormalConvsKAN_epoch2.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/NormalConvsKAN_epoch20.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/NormalConvsKAN_epoch21.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/NormalConvsKAN_epoch22.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/NormalConvsKAN_epoch23.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/NormalConvsKAN_epoch24.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/NormalConvsKAN_epoch25.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/NormalConvsKAN_epoch26.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/NormalConvsKAN_epoch27.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/NormalConvsKAN_epoch28.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/NormalConvsKAN_epoch29.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/NormalConvsKAN_epoch3.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/NormalConvsKAN_epoch4.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/NormalConvsKAN_epoch5.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/NormalConvsKAN_epoch6.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/NormalConvsKAN_epoch7.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/NormalConvsKAN_epoch8.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoint_intra/stats/lr_-5/NormalConvsKAN_epoch9.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/torchkan/KANvolver.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flops.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Flops.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/KAN_catastrophic_forgetting.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/KAN_catastrophic_forgetting.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MLP_lr/MLPl_lr.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MLP_lr/results_lr_0.0001.pkl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MLP_lr/results_lr_0.001.pkl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MLP_lr/results_lr_0.01.pkl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MLP_lr/results_lr_1e-05.pkl" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -318,23 +189,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Python tests.Python tests in KAN_catastrophic_forgetting.ipynb.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/MrPio/Desktop",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python tests.Python tests in KAN_catastrophic_forgetting.ipynb.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/MrPio/Desktop&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\MrPio\PycharmProjects\KAN_tests\checkpoint_inter" />
@@ -344,6 +215,7 @@
       <recent name="C:\Users\MrPio\PycharmProjects\KAN_tests" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\MrPio\PycharmProjects\KAN_tests\torchkan" />
       <recent name="C:\Users\MrPio\PycharmProjects\KAN_tests\checkpoint_inter\stats" />
       <recent name="C:\Users\MrPio\PycharmProjects\KAN_tests" />
       <recent name="C:\Users\MrPio\PycharmProjects\KAN_tests\kan" />
@@ -403,7 +275,8 @@
       <workItem from="1718731011776" duration="10192000" />
       <workItem from="1718784682618" duration="38055000" />
       <workItem from="1718874535717" duration="7473000" />
-      <workItem from="1718960739627" duration="16040000" />
+      <workItem from="1718960739627" duration="18678000" />
+      <workItem from="1718985821032" duration="4750000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -525,7 +398,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718887795511</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Tests concluded">
+      <option name="closed" value="true" />
+      <created>1718980011189</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1718980011189</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -559,7 +440,8 @@
     <MESSAGE value="INTER first test" />
     <MESSAGE value="INTER video" />
     <MESSAGE value="Some other INTER tests" />
-    <option name="LAST_COMMIT_MESSAGE" value="Some other INTER tests" />
+    <MESSAGE value="Tests concluded" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tests concluded" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
