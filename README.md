@@ -1,6 +1,9 @@
 # Continual learning in KANs
 This repository contains the results of the tests carried out to prove the ability of the Kolmogorov-Arnold neural network to resist the catastrophic forgetting that heavily affects MLPs.
 
+The results of these tests are presented in detail in this paper: 
+[Kolmogorov_Arnold_Networks Morelli Valerio Federica Paganica.pdf](https://github.com/user-attachments/files/15945916/Kolmogorov_Arnold_Networks.Morelli.Valerio.Federica.Paganica.pdf)
+
 The following video highlights such a difference.
 
 https://github.com/MrPio/KAN_tests/assets/22773005/b244367a-9af1-4b56-b005-bda6b788d810
