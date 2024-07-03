@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d94b0c3f-4622-4bc5-b5ef-3754a76d641d" name="Changes" comment="Added cifar10 dataset. However, conv-based NN still need to have their level sizes adjusted.">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="d94b0c3f-4622-4bc5-b5ef-3754a76d641d" name="Changes" comment="Another indentation bug fixed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/KAN_catastrophic_forgetting.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/KAN_catastrophic_forgetting.ipynb" afterDir="false" />
     </list>
@@ -315,7 +314,23 @@
       <option name="project" value="LOCAL" />
       <updated>1719968924713</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Rewritten Domain IL task visualiser. Fixed code indentation bug.">
+      <option name="closed" value="true" />
+      <created>1719969697614</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1719969697614</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Another indentation bug fixed">
+      <option name="closed" value="true" />
+      <created>1719969775709</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1719969775709</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -354,7 +369,9 @@
     <MESSAGE value="Missing KANvolver INTER test" />
     <MESSAGE value="Revert &quot;Added cifar10 dataset. However, conv-based NN still need to have their level sizes adjusted.&quot;&#10;&#10;This reverts commit 38fe8c9e" />
     <MESSAGE value="Added cifar10 dataset. However, conv-based NN still need to have their level sizes adjusted." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added cifar10 dataset. However, conv-based NN still need to have their level sizes adjusted." />
+    <MESSAGE value="Rewritten Domain IL task visualiser. Fixed code indentation bug." />
+    <MESSAGE value="Another indentation bug fixed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Another indentation bug fixed" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/KAN_tests$.coverage" NAME=" Coverage Results" MODIFIED="1718881422014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
