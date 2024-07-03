@@ -54,7 +54,12 @@ https://github.com/MrPio/KAN_tests/assets/22773005/b244367a-9af1-4b56-b005-bda6b
 ![confusion_matrix](https://github.com/MrPio/KAN-Continual_Learning_tests/assets/22773005/4e0561e9-32b8-44d3-ab01-8fd197451940)
 
 ## MLPs vs KANs
+
+
 Based on ![Convolutional-KANs by Blealtan](https://github.com/Blealtan/efficient-kan/tree/master)
+
+Learning Rate=10^-6:
+
 
 ![INTER lr-6 MLP_KAN](https://github.com/MrPio/KAN_tests/assets/22773005/91bb539d-3355-451a-bc21-89e79e4af524)
 
