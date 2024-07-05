@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d94b0c3f-4622-4bc5-b5ef-3754a76d641d" name="Changes" comment="INTRA and INTER KAN/MLP tests executed">
-      <change afterPath="$PROJECT_DIR$/video/MLP vs KAN INTRA MNIST.mp4" afterDir="false" />
+    <list default="true" id="d94b0c3f-4622-4bc5-b5ef-3754a76d641d" name="Changes" comment="Finished MLP+KAN tests">
+      <change afterPath="$PROJECT_DIR$/kan/KAN_batch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kan/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flops.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Flops.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/KAN_catastrophic_forgetting.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/KAN_catastrophic_forgetting.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,6 +29,7 @@
     <option name="RESET_MODE" value="MIXED" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/AppData/Local/JetBrains/PyCharm2023.3/python_stubs/1060740625/torch/_C/_nn.py" root0="SKIP_INSPECTION" />
     <setting file="file://$USER_HOME$/AppData/Local/Programs/Python/Python310/Lib/site-packages/matplotlib/pyplot.py" root0="SKIP_INSPECTION" />
     <setting file="file://$USER_HOME$/AppData/Local/Programs/Python/Python310/Lib/site-packages/ptflops/aten_engine.py" root0="SKIP_INSPECTION" />
     <setting file="file://$USER_HOME$/AppData/Local/Programs/Python/Python310/Lib/site-packages/ptflops/flops_counter.py" root0="SKIP_INSPECTION" />
@@ -79,10 +82,10 @@
       <recent name="C:\Users\MrPio\PycharmProjects\KAN_tests" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\MrPio\PycharmProjects\KAN_tests\kan" />
       <recent name="C:\Users\MrPio\PycharmProjects\KAN_tests\torchkan" />
       <recent name="C:\Users\MrPio\PycharmProjects\KAN_tests\checkpoint_inter\stats" />
       <recent name="C:\Users\MrPio\PycharmProjects\KAN_tests" />
-      <recent name="C:\Users\MrPio\PycharmProjects\KAN_tests\kan" />
       <recent name="C:\Users\MrPio\PycharmProjects\KAN_tests\checkpoint" />
     </key>
   </component>
@@ -147,6 +150,9 @@
       <workItem from="1719907025724" duration="52000" />
       <workItem from="1719932371460" duration="11187000" />
       <workItem from="1719996134573" duration="9273000" />
+      <workItem from="1720105021320" duration="4134000" />
+      <workItem from="1720112008347" duration="311000" />
+      <workItem from="1720167341743" duration="5559000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -340,7 +346,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719974453483</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Finished MLP+KAN tests">
+      <option name="closed" value="true" />
+      <created>1720037394871</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1720037394871</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -382,7 +396,8 @@
     <MESSAGE value="Rewritten Domain IL task visualiser. Fixed code indentation bug." />
     <MESSAGE value="Another indentation bug fixed" />
     <MESSAGE value="INTRA and INTER KAN/MLP tests executed" />
-    <option name="LAST_COMMIT_MESSAGE" value="INTRA and INTER KAN/MLP tests executed" />
+    <MESSAGE value="Finished MLP+KAN tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished MLP+KAN tests" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/KAN_tests$.coverage" NAME=" Coverage Results" MODIFIED="1718881422014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
