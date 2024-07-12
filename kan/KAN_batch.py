@@ -943,7 +943,7 @@ class KAN(nn.Module):
                 if batch_idx < grid_update_freq and epoch < stop_grid_update_epoch and update_grid:
                     self.update_grid_from_samples(x_batch)
 
-                print(x_batch.shape, y_batch.shape)
+                # print(x_batch.shape, y_batch.shape)
 
                 if opt == "LBFGS":
                     optimizer.zero_grad()

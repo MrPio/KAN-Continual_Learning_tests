@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d94b0c3f-4622-4bc5-b5ef-3754a76d641d" name="Changes" comment="Finished MLP+KAN tests">
-      <change afterPath="$PROJECT_DIR$/kan/KAN_batch.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kan/main.py" afterDir="false" />
+    <list default="true" id="d94b0c3f-4622-4bc5-b5ef-3754a76d641d" name="Changes" comment="PyKAN reintroduced">
+      <change afterPath="$PROJECT_DIR$/Is_EfficientKAN_good.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flops.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Flops.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/KAN_catastrophic_forgetting.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/KAN_catastrophic_forgetting.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kan/KAN_batch.py" beforeDir="false" afterPath="$PROJECT_DIR$/kan/KAN_batch.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,9 +34,11 @@
     <setting file="file://$USER_HOME$/AppData/Local/Programs/Python/Python310/Lib/site-packages/ptflops/flops_counter.py" root0="SKIP_INSPECTION" />
     <setting file="file://$USER_HOME$/AppData/Local/Programs/Python/Python310/Lib/site-packages/sklearn/metrics/_plot/confusion_matrix.py" root0="SKIP_INSPECTION" />
     <setting file="file://$USER_HOME$/AppData/Local/Programs/Python/Python310/Lib/site-packages/torch/_C/_VariableFunctions.pyi" root0="SKIP_INSPECTION" />
+    <setting file="file://$USER_HOME$/AppData/Local/Programs/Python/Python310/Lib/site-packages/torch/nn/modules/loss.py" root0="SKIP_INSPECTION" />
     <setting file="file://$USER_HOME$/AppData/Local/Programs/Python/Python310/Lib/site-packages/torch/nn/modules/module.py" root0="SKIP_INSPECTION" />
     <setting file="file://$USER_HOME$/AppData/Local/Programs/Python/Python310/Lib/site-packages/torch/optim/adam.py" root0="SKIP_INSPECTION" />
     <setting file="file://$USER_HOME$/AppData/Local/Programs/Python/Python310/Lib/site-packages/torch/optim/adam.pyi" root0="SKIP_INSPECTION" />
+    <setting file="file://$USER_HOME$/AppData/Local/Programs/Python/Python310/Lib/site-packages/torchmetrics/classification/accuracy.py" root0="SKIP_INSPECTION" />
     <setting file="file://$USER_HOME$/AppData/Local/Programs/Python/Python310/Lib/site-packages/torchvision/transforms/__init__.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -55,31 +56,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
-    &quot;Python tests.Python tests in KAN_catastrophic_forgetting.ipynb.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/MrPio/Desktop&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "Python tests.Python tests in KAN_catastrophic_forgetting.ipynb.executor": "Debug",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/MrPio/PycharmProjects/KAN_tests/results/gaussian_peaks",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\MrPio\PycharmProjects\KAN_tests\results\gaussian_peaks" />
+      <recent name="C:\Users\MrPio\PycharmProjects\KAN_tests\results\gaussian_peaks\intra" />
+      <recent name="C:\Users\MrPio\PycharmProjects\KAN_tests" />
       <recent name="C:\Users\MrPio\PycharmProjects\KAN_tests\checkpoint_inter" />
       <recent name="C:\Users\MrPio\PycharmProjects\KAN_tests\video" />
-      <recent name="C:\Users\MrPio\PycharmProjects\KAN_tests\kan_convolutional" />
-      <recent name="C:\Users\MrPio\PycharmProjects\KAN_tests\checkpoint" />
-      <recent name="C:\Users\MrPio\PycharmProjects\KAN_tests" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\MrPio\PycharmProjects\KAN_tests\kan" />
@@ -152,7 +153,12 @@
       <workItem from="1719996134573" duration="9273000" />
       <workItem from="1720105021320" duration="4134000" />
       <workItem from="1720112008347" duration="311000" />
-      <workItem from="1720167341743" duration="5559000" />
+      <workItem from="1720167341743" duration="5591000" />
+      <workItem from="1720292156466" duration="2737000" />
+      <workItem from="1720537959904" duration="7051000" />
+      <workItem from="1720623909133" duration="731000" />
+      <workItem from="1720712594683" duration="21000" />
+      <workItem from="1720784736911" duration="3856000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -354,7 +360,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720037394871</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="PyKAN reintroduced">
+      <option name="closed" value="true" />
+      <created>1720191026760</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1720191026760</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -397,9 +411,10 @@
     <MESSAGE value="Another indentation bug fixed" />
     <MESSAGE value="INTRA and INTER KAN/MLP tests executed" />
     <MESSAGE value="Finished MLP+KAN tests" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished MLP+KAN tests" />
+    <MESSAGE value="PyKAN reintroduced" />
+    <option name="LAST_COMMIT_MESSAGE" value="PyKAN reintroduced" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/KAN_tests$.coverage" NAME=" Coverage Results" MODIFIED="1718881422014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/KAN_tests$.coverage" NAME=" Coverage Results" MODIFIED="1720788048136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
