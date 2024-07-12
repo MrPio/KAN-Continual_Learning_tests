@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d94b0c3f-4622-4bc5-b5ef-3754a76d641d" name="Changes" comment="PyKAN reintroduced">
-      <change afterPath="$PROJECT_DIR$/Is_EfficientKAN_good.ipynb" afterDir="false" />
+    <list default="true" id="d94b0c3f-4622-4bc5-b5ef-3754a76d641d" name="Changes" comment="Gaussian peaks test introduced.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KAN_catastrophic_forgetting.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/KAN_catastrophic_forgetting.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kan/KAN_batch.py" beforeDir="false" afterPath="$PROJECT_DIR$/kan/KAN_batch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Is_EfficientKAN_good.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Is_EfficientKAN_good.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,24 +54,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
-    "Python tests.Python tests in KAN_catastrophic_forgetting.ipynb.executor": "Debug",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/MrPio/PycharmProjects/KAN_tests/results/gaussian_peaks",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
+    &quot;Python tests.Python tests in KAN_catastrophic_forgetting.ipynb.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/MrPio/PycharmProjects/KAN_tests/results/gaussian_peaks&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\MrPio\PycharmProjects\KAN_tests\results\gaussian_peaks" />
@@ -158,7 +156,9 @@
       <workItem from="1720537959904" duration="7051000" />
       <workItem from="1720623909133" duration="731000" />
       <workItem from="1720712594683" duration="21000" />
-      <workItem from="1720784736911" duration="3856000" />
+      <workItem from="1720784736911" duration="4163000" />
+      <workItem from="1720788979361" duration="106000" />
+      <workItem from="1720800018462" duration="4854000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -368,7 +368,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720191026760</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Gaussian peaks test introduced.">
+      <option name="closed" value="true" />
+      <created>1720788919900</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1720788919900</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -387,7 +395,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Initial commit" />
     <MESSAGE value="KAN training on MNIST in progress" />
     <MESSAGE value="KAN training on MNIST in progress 2/3" />
     <MESSAGE value="New KAN training" />
@@ -412,7 +419,8 @@
     <MESSAGE value="INTRA and INTER KAN/MLP tests executed" />
     <MESSAGE value="Finished MLP+KAN tests" />
     <MESSAGE value="PyKAN reintroduced" />
-    <option name="LAST_COMMIT_MESSAGE" value="PyKAN reintroduced" />
+    <MESSAGE value="Gaussian peaks test introduced." />
+    <option name="LAST_COMMIT_MESSAGE" value="Gaussian peaks test introduced." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/KAN_tests$.coverage" NAME=" Coverage Results" MODIFIED="1720788048136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
