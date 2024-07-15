@@ -1,6 +1,7 @@
+import math
+
 import torch
 import torch.nn.functional as F
-import math
 
 
 class KANLinear(torch.nn.Module):
@@ -35,14 +36,14 @@ class KANLinear(torch.nn.Module):
         )
         self.register_buffer("grid", grid)
 
-        self.base_weight = torch.nn.Parameter(torch.Tensor(out_features, in_features))
+        self.base_weight = torch.nn.Parameter(torch.Tensor(out_features, in_features)).requires_grad_(False) # sb_trainable
         self.spline_weight = torch.nn.Parameter(
             torch.Tensor(out_features, in_features, grid_size + spline_order)
         )
         if enable_standalone_scale_spline:
             self.spline_scaler = torch.nn.Parameter(
                 torch.Tensor(out_features, in_features)
-            )
+            ).requires_grad_(False) # sp_trainable
 
         self.scale_noise = scale_noise
         self.scale_base = scale_base
@@ -54,7 +55,8 @@ class KANLinear(torch.nn.Module):
         self.reset_parameters()
 
     def reset_parameters(self):
-        torch.nn.init.kaiming_uniform_(self.base_weight, a=math.sqrt(5) * self.scale_base)
+        #torch.nn.init.kaiming_uniform_(self.base_weight, a=math.sqrt(5) * self.scale_base)
+        torch.nn.init.constant_(self.base_weight, 1.0)
         with torch.no_grad():
             noise = (
                     (
@@ -160,7 +162,7 @@ class KANLinear(torch.nn.Module):
             self.b_splines(x).view(x.size(0), -1),
             self.scaled_spline_weight.view(self.out_features, -1),
         )
-        output = spline_output # +base_output
+        output = spline_output + base_output
 
         output = output.view(*original_shape[:-1], self.out_features)
         return output
@@ -240,7 +242,7 @@ class KANLinear(torch.nn.Module):
 class KAN(torch.nn.Module):
     def __init__(
             self,
-            layers_hidden,  
+            layers_hidden,
             grid_size=5,
             spline_order=3,
             scale_noise=0.1,

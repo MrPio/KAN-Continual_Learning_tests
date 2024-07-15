@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d94b0c3f-4622-4bc5-b5ef-3754a76d641d" name="Changes" comment="Gaussian peaks test INTER executed.">
+    <list default="true" id="d94b0c3f-4622-4bc5-b5ef-3754a76d641d" name="Changes" comment="New Tests without base_output in EfficientKAN">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Is_EfficientKAN_good.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Is_EfficientKAN_good.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/efficient_kan/kan.py" beforeDir="false" afterPath="$PROJECT_DIR$/efficient_kan/kan.py" afterDir="false" />
     </list>
@@ -32,10 +33,12 @@
     <setting file="file://$USER_HOME$/AppData/Local/Programs/Python/Python310/Lib/site-packages/ptflops/flops_counter.py" root0="SKIP_INSPECTION" />
     <setting file="file://$USER_HOME$/AppData/Local/Programs/Python/Python310/Lib/site-packages/sklearn/metrics/_plot/confusion_matrix.py" root0="SKIP_INSPECTION" />
     <setting file="file://$USER_HOME$/AppData/Local/Programs/Python/Python310/Lib/site-packages/torch/_C/_VariableFunctions.pyi" root0="SKIP_INSPECTION" />
+    <setting file="file://$USER_HOME$/AppData/Local/Programs/Python/Python310/Lib/site-packages/torch/nn/init.py" root0="SKIP_INSPECTION" />
     <setting file="file://$USER_HOME$/AppData/Local/Programs/Python/Python310/Lib/site-packages/torch/nn/modules/loss.py" root0="SKIP_INSPECTION" />
     <setting file="file://$USER_HOME$/AppData/Local/Programs/Python/Python310/Lib/site-packages/torch/nn/modules/module.py" root0="SKIP_INSPECTION" />
     <setting file="file://$USER_HOME$/AppData/Local/Programs/Python/Python310/Lib/site-packages/torch/optim/adam.py" root0="SKIP_INSPECTION" />
     <setting file="file://$USER_HOME$/AppData/Local/Programs/Python/Python310/Lib/site-packages/torch/optim/adam.pyi" root0="SKIP_INSPECTION" />
+    <setting file="file://$USER_HOME$/AppData/Local/Programs/Python/Python310/Lib/site-packages/torch/optim/adamw.pyi" root0="SKIP_INSPECTION" />
     <setting file="file://$USER_HOME$/AppData/Local/Programs/Python/Python310/Lib/site-packages/torchmetrics/classification/accuracy.py" root0="SKIP_INSPECTION" />
     <setting file="file://$USER_HOME$/AppData/Local/Programs/Python/Python310/Lib/site-packages/torchvision/transforms/__init__.py" root0="SKIP_INSPECTION" />
   </component>
@@ -54,24 +57,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
-    &quot;Python tests.Python tests in KAN_catastrophic_forgetting.ipynb.executor&quot;: &quot;Debug&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/MrPio/PycharmProjects/KAN_tests/results/gaussian_peaks&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "Python tests.Python tests for Is_EfficientKAN_good.test.executor": "Run",
+    "Python tests.Python tests in KAN_catastrophic_forgetting.ipynb.executor": "Debug",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/MrPio/PycharmProjects/KAN_tests/results/gaussian_peaks",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\MrPio\PycharmProjects\KAN_tests\results\gaussian_peaks" />
@@ -88,7 +92,23 @@
       <recent name="C:\Users\MrPio\PycharmProjects\KAN_tests\checkpoint" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python tests.Python tests for Is_EfficientKAN_good.test">
+    <configuration name="Python tests for Is_EfficientKAN_good.test" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="KAN_tests" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Is_EfficientKAN_good.test&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <configuration name="Python tests in KAN_catastrophic_forgetting.ipynb" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="KAN_tests" />
       <option name="ENV_FILES" value="" />
@@ -107,6 +127,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for Is_EfficientKAN_good.test" />
         <item itemvalue="Python tests.Python tests in KAN_catastrophic_forgetting.ipynb" />
       </list>
     </recent_temporary>
@@ -158,7 +179,9 @@
       <workItem from="1720712594683" duration="21000" />
       <workItem from="1720784736911" duration="4163000" />
       <workItem from="1720788979361" duration="106000" />
-      <workItem from="1720800018462" duration="5204000" />
+      <workItem from="1720800018462" duration="5363000" />
+      <workItem from="1720805895680" duration="463000" />
+      <workItem from="1721048956683" duration="3925000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -384,7 +407,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720804925917</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="New Tests without base_output in EfficientKAN">
+      <option name="closed" value="true" />
+      <created>1720805418338</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1720805418338</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -403,7 +434,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="KAN training on MNIST in progress 2/3" />
     <MESSAGE value="New KAN training" />
     <MESSAGE value="New CKAN training" />
     <MESSAGE value="Different Conv net trained" />
@@ -428,7 +458,8 @@
     <MESSAGE value="PyKAN reintroduced" />
     <MESSAGE value="Gaussian peaks test introduced." />
     <MESSAGE value="Gaussian peaks test INTER executed." />
-    <option name="LAST_COMMIT_MESSAGE" value="Gaussian peaks test INTER executed." />
+    <MESSAGE value="New Tests without base_output in EfficientKAN" />
+    <option name="LAST_COMMIT_MESSAGE" value="New Tests without base_output in EfficientKAN" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/KAN_tests$.coverage" NAME=" Coverage Results" MODIFIED="1720788048136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
