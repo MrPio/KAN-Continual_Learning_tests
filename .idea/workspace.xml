@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d94b0c3f-4622-4bc5-b5ef-3754a76d641d" name="Changes" comment="Remove unfair &quot;remove_base_output&quot; usage">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="d94b0c3f-4622-4bc5-b5ef-3754a76d641d" name="Changes" comment="Add Gaussian Peaks result on README" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,11 +75,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\MrPio\PycharmProjects\KAN_tests\png" />
       <recent name="C:\Users\MrPio\PycharmProjects\KAN_tests\results\gaussian_peaks" />
       <recent name="C:\Users\MrPio\PycharmProjects\KAN_tests\results\gaussian_peaks\intra" />
       <recent name="C:\Users\MrPio\PycharmProjects\KAN_tests" />
       <recent name="C:\Users\MrPio\PycharmProjects\KAN_tests\checkpoint_inter" />
-      <recent name="C:\Users\MrPio\PycharmProjects\KAN_tests\video" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\MrPio\PycharmProjects\KAN_tests\kan" />
@@ -199,7 +196,7 @@
       <workItem from="1720800018462" duration="5363000" />
       <workItem from="1720805895680" duration="463000" />
       <workItem from="1721048956683" duration="4505000" />
-      <workItem from="1722504584410" duration="7731000" />
+      <workItem from="1722504584410" duration="8344000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -457,7 +454,23 @@
       <option name="project" value="LOCAL" />
       <updated>1722510411221</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Update README">
+      <option name="closed" value="true" />
+      <created>1722512531028</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1722512531028</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Add Gaussian Peaks result on README">
+      <option name="closed" value="true" />
+      <created>1722512626521</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1722512626521</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -476,8 +489,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Notebooks merged" />
-    <MESSAGE value="New trainings" />
     <MESSAGE value="Batch tests, metadata serialization implemented" />
     <MESSAGE value=" FLOPS and params counting introduced" />
     <MESSAGE value="Training on sorted MNIST, 1 Task, 1/2" />
@@ -501,7 +512,9 @@
     <MESSAGE value="Add experiment variations on EfficientKAN gaussian peaks.&#10;What we changed is:&#10;- Batch size&#10;- Learning Rate&#10;- Number of epochs&#10;- SB/ SP trainable in EfficientKAN&#10;- self.base_weight constant initialization" />
     <MESSAGE value="Optimal configuration in Gaussian Peaks for efficient KANs" />
     <MESSAGE value="Remove unfair &quot;remove_base_output&quot; usage" />
-    <option name="LAST_COMMIT_MESSAGE" value="Remove unfair &quot;remove_base_output&quot; usage" />
+    <MESSAGE value="Update README" />
+    <MESSAGE value="Add Gaussian Peaks result on README" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Gaussian Peaks result on README" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/KAN_tests$.coverage" NAME=" Coverage Results" MODIFIED="1721055471139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />

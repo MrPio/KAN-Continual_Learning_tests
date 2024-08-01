@@ -20,7 +20,6 @@ class KANLinear(torch.nn.Module):
             grid_range=[-1, 1],
             sb_trainable=True,
             sp_trainable=True,
-            remove_base_output=False
     ):
         super(KANLinear, self).__init__()
         self.in_features = in_features
@@ -29,7 +28,6 @@ class KANLinear(torch.nn.Module):
         self.spline_order = spline_order
         self.sb_trainable = sb_trainable
         self.sp_trainable = sp_trainable
-        self.remove_base_output = remove_base_output
 
         h = (grid_range[1] - grid_range[0]) / grid_size
         grid = (
@@ -172,7 +170,7 @@ class KANLinear(torch.nn.Module):
             self.b_splines(x).view(x.size(0), -1),
             self.scaled_spline_weight.view(self.out_features, -1),
         )
-        output = spline_output + base_output if not self.remove_base_output else spline_output
+        output = spline_output + base_output
 
         output = output.view(*original_shape[:-1], self.out_features)
         return output
@@ -264,7 +262,6 @@ class KAN(torch.nn.Module):
             enable_standalone_scale_spline=True,
             sb_trainable=True,
             sp_trainable=True,
-            remove_base_output=False
     ):
         super(KAN, self).__init__()
         self.grid_size = grid_size
@@ -287,7 +284,6 @@ class KAN(torch.nn.Module):
                     enable_standalone_scale_spline=enable_standalone_scale_spline,
                     sb_trainable=sb_trainable,
                     sp_trainable=sp_trainable,
-                    remove_base_output=remove_base_output
                 )
             )
 
