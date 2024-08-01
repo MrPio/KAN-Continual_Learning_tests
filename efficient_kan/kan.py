@@ -18,12 +18,18 @@ class KANLinear(torch.nn.Module):
             base_activation=torch.nn.SiLU,
             grid_eps=0.02,
             grid_range=[-1, 1],
+            sb_trainable=True,
+            sp_trainable=True,
+            remove_base_output=False
     ):
         super(KANLinear, self).__init__()
         self.in_features = in_features
         self.out_features = out_features
         self.grid_size = grid_size
         self.spline_order = spline_order
+        self.sb_trainable = sb_trainable
+        self.sp_trainable = sp_trainable
+        self.remove_base_output = remove_base_output
 
         h = (grid_range[1] - grid_range[0]) / grid_size
         grid = (
@@ -36,14 +42,16 @@ class KANLinear(torch.nn.Module):
         )
         self.register_buffer("grid", grid)
 
-        self.base_weight = torch.nn.Parameter(torch.Tensor(out_features, in_features)).requires_grad_(False) # sb_trainable
+        self.base_weight = torch.nn.Parameter(torch.Tensor(out_features, in_features)).requires_grad_(
+            sp_trainable)  # sp_trainable
+
         self.spline_weight = torch.nn.Parameter(
             torch.Tensor(out_features, in_features, grid_size + spline_order)
         )
+
         if enable_standalone_scale_spline:
-            self.spline_scaler = torch.nn.Parameter(
-                torch.Tensor(out_features, in_features)
-            ).requires_grad_(False) # sp_trainable
+            self.spline_scaler = torch.nn.Parameter(torch.Tensor(out_features, in_features)).requires_grad_(
+                sb_trainable)  # sb_trainable
 
         self.scale_noise = scale_noise
         self.scale_base = scale_base
@@ -53,10 +61,11 @@ class KANLinear(torch.nn.Module):
         self.grid_eps = grid_eps
 
         self.reset_parameters()
+        self.double()
 
     def reset_parameters(self):
-        #torch.nn.init.kaiming_uniform_(self.base_weight, a=math.sqrt(5) * self.scale_base)
-        torch.nn.init.constant_(self.base_weight, 1.0)
+        torch.nn.init.kaiming_uniform_(self.base_weight, a=math.sqrt(5) * self.scale_base)
+        # torch.nn.init.constant_(self.base_weight, 1.0) # Added by us
         with torch.no_grad():
             noise = (
                     (
@@ -74,8 +83,8 @@ class KANLinear(torch.nn.Module):
                 )
             )
             if self.enable_standalone_scale_spline:
-                # torch.nn.init.constant_(self.spline_scaler, self.scale_spline)
                 torch.nn.init.kaiming_uniform_(self.spline_scaler, a=math.sqrt(5) * self.scale_spline)
+                # torch.nn.init.constant_(self.spline_scaler, self.scale_spline) # Added by us
 
     def b_splines(self, x: torch.Tensor):
         """
@@ -157,12 +166,13 @@ class KANLinear(torch.nn.Module):
         original_shape = x.shape
         x = x.view(-1, self.in_features)
 
-        base_output = F.linear(self.base_activation(x), self.base_weight)
+        base_output = F.linear(self.base_activation(x).double(), self.base_weight)
+
         spline_output = F.linear(
             self.b_splines(x).view(x.size(0), -1),
             self.scaled_spline_weight.view(self.out_features, -1),
         )
-        output = spline_output + base_output
+        output = spline_output + base_output if not self.remove_base_output else spline_output
 
         output = output.view(*original_shape[:-1], self.out_features)
         return output
@@ -251,6 +261,10 @@ class KAN(torch.nn.Module):
             base_activation=torch.nn.SiLU,
             grid_eps=0.02,
             grid_range=[-1, 1],
+            enable_standalone_scale_spline=True,
+            sb_trainable=True,
+            sp_trainable=True,
+            remove_base_output=False
     ):
         super(KAN, self).__init__()
         self.grid_size = grid_size
@@ -270,6 +284,10 @@ class KAN(torch.nn.Module):
                     base_activation=base_activation,
                     grid_eps=grid_eps,
                     grid_range=grid_range,
+                    enable_standalone_scale_spline=enable_standalone_scale_spline,
+                    sb_trainable=sb_trainable,
+                    sp_trainable=sp_trainable,
+                    remove_base_output=remove_base_output
                 )
             )
 
