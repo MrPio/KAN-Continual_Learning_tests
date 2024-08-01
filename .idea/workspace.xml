@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d94b0c3f-4622-4bc5-b5ef-3754a76d641d" name="Changes" comment="Add Gaussian Peaks result on README" />
+    <list default="true" id="d94b0c3f-4622-4bc5-b5ef-3754a76d641d" name="Changes" comment="Remove remove_base_output for clarity">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KAN_catastrophic_forgetting.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/KAN_catastrophic_forgetting.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,13 +66,13 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/MrPio/PycharmProjects/KAN_tests/png",
+    "last_opened_file_path": "C:/Users/MrPio/Desktop",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -196,7 +199,9 @@
       <workItem from="1720800018462" duration="5363000" />
       <workItem from="1720805895680" duration="463000" />
       <workItem from="1721048956683" duration="4505000" />
-      <workItem from="1722504584410" duration="8344000" />
+      <workItem from="1722504584410" duration="9003000" />
+      <workItem from="1722514066310" duration="630000" />
+      <workItem from="1722519416934" duration="3698000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -470,7 +475,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722512626521</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Remove remove_base_output for clarity">
+      <option name="closed" value="true" />
+      <created>1722513647905</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1722513647905</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -489,7 +502,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Batch tests, metadata serialization implemented" />
     <MESSAGE value=" FLOPS and params counting introduced" />
     <MESSAGE value="Training on sorted MNIST, 1 Task, 1/2" />
     <MESSAGE value="Enhanced Stats class. INTRA dataset tests performed" />
@@ -514,7 +526,8 @@
     <MESSAGE value="Remove unfair &quot;remove_base_output&quot; usage" />
     <MESSAGE value="Update README" />
     <MESSAGE value="Add Gaussian Peaks result on README" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Gaussian Peaks result on README" />
+    <MESSAGE value="Remove remove_base_output for clarity" />
+    <option name="LAST_COMMIT_MESSAGE" value="Remove remove_base_output for clarity" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/KAN_tests$.coverage" NAME=" Coverage Results" MODIFIED="1721055471139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
