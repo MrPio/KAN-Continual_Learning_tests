@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d94b0c3f-4622-4bc5-b5ef-3754a76d641d" name="Changes" comment="Add experiment variations on EfficientKAN gaussian peaks.&#10;What we changed is:&#10;- Batch size&#10;- Learning Rate&#10;- Number of epochs&#10;- SB/ SP trainable in EfficientKAN&#10;- self.base_weight constant initialization">
+    <list default="true" id="d94b0c3f-4622-4bc5-b5ef-3754a76d641d" name="Changes" comment="Remove unfair &quot;remove_base_output&quot; usage">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Is_EfficientKAN_good.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Is_EfficientKAN_good.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/efficient_kan/kan.py" beforeDir="false" afterPath="$PROJECT_DIR$/efficient_kan/kan.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +66,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/MrPio/Desktop",
+    "last_opened_file_path": "C:/Users/MrPio/PycharmProjects/KAN_tests/png",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -200,7 +199,7 @@
       <workItem from="1720800018462" duration="5363000" />
       <workItem from="1720805895680" duration="463000" />
       <workItem from="1721048956683" duration="4505000" />
-      <workItem from="1722504584410" duration="5374000" />
+      <workItem from="1722504584410" duration="7731000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -442,7 +441,23 @@
       <option name="project" value="LOCAL" />
       <updated>1721055066336</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Optimal configuration in Gaussian Peaks for efficient KANs">
+      <option name="closed" value="true" />
+      <created>1722510264406</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1722510264406</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Remove unfair &quot;remove_base_output&quot; usage">
+      <option name="closed" value="true" />
+      <created>1722510411221</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1722510411221</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -461,8 +476,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="New CKAN training" />
-    <MESSAGE value="Different Conv net trained" />
     <MESSAGE value="Notebooks merged" />
     <MESSAGE value="New trainings" />
     <MESSAGE value="Batch tests, metadata serialization implemented" />
@@ -486,7 +499,9 @@
     <MESSAGE value="Gaussian peaks test INTER executed." />
     <MESSAGE value="New Tests without base_output in EfficientKAN" />
     <MESSAGE value="Add experiment variations on EfficientKAN gaussian peaks.&#10;What we changed is:&#10;- Batch size&#10;- Learning Rate&#10;- Number of epochs&#10;- SB/ SP trainable in EfficientKAN&#10;- self.base_weight constant initialization" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add experiment variations on EfficientKAN gaussian peaks.&#10;What we changed is:&#10;- Batch size&#10;- Learning Rate&#10;- Number of epochs&#10;- SB/ SP trainable in EfficientKAN&#10;- self.base_weight constant initialization" />
+    <MESSAGE value="Optimal configuration in Gaussian Peaks for efficient KANs" />
+    <MESSAGE value="Remove unfair &quot;remove_base_output&quot; usage" />
+    <option name="LAST_COMMIT_MESSAGE" value="Remove unfair &quot;remove_base_output&quot; usage" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/KAN_tests$.coverage" NAME=" Coverage Results" MODIFIED="1721055471139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
