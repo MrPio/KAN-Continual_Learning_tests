@@ -25,7 +25,7 @@ network to resist the catastrophic forgetting that heavily affects MLPs.
 * [⬆️ Sorted MNIST training set (INTRA training set sorting)](#INTRA)
   * [MLPs vs KANs](#INTRA1)
   * [KAN-based and non-KAN-based convolutional nets](#INTRA2)
-* [⬇️ Domain IL Scenario (INTER training set sorting)](#INTER)
+* [⬇️ Class-IL Scenario (INTER training set sorting)](#INTER)
   * [MLPs vs KANs](#INTER1)
   * [KAN-based and non-KAN-based convolutional nets](#INTER2)
 * [❗ The Gaussian Peaks Problem](#EfficientKAN)
@@ -72,7 +72,7 @@ The results of this test are:
 
 <a name="INTER"/></a>
 
-## ⬇️ Domain IL Scenario (INTER training set sorting)
+## ⬇️ Class-IL Scenario (INTER training set sorting)
 
 🎬 The following video highlights the difference between MLPs and KANs in a Domain-IL scenario:
 
