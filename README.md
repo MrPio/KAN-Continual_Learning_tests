@@ -88,7 +88,7 @@ Based on ![Convolutional-KANs by Blealtan](https://github.com/Blealtan/efficient
 
 Learning Rate=10^-6:
 
-<img width="600rem" alt="INTER lr-6 MLP_KAN" src="https://github.com/MrPio/KAN-Continual_Learning_tests/assets/22773005/91bb539d-3355-451a-bc21-89e79e4af524"/>
+<img width="600rem" alt="INTER lr-6 MLP_KAN" src="https://github.com/user-attachments/assets/8708cf06-d117-471a-9657-a5764010a419"/>
 
 <a name="INTER2"/></a>
 
@@ -97,7 +97,7 @@ Learning Rate=10^-6:
 Based on ![Convolutional-KANs by AntonioTepsich](https://github.com/AntonioTepsich/Convolutional-KANs)
 and on ![KANvolver by Subhransu Sekhar Bhattacharjee ](https://github.com/1ssb/torchkan/tree/main)
 
-<img width="600rem" alt="INTER lr-6 CONV" src="https://github.com/MrPio/KAN-Continual_Learning_tests/assets/22773005/f100156a-93ba-40db-834a-28ccdf4a3903"/>
+<img width="600rem" alt="INTER lr-6 CONV" src="https://github.com/user-attachments/assets/c5332b11-f045-40cd-9aeb-83d2666d86b9"/>
 
 <a name="EfficientKAN"></a>
 
