@@ -102,7 +102,7 @@ and on ![KANvolver by Subhransu Sekhar Bhattacharjee ](https://github.com/1ssb/t
 <a name="EfficientKAN"></a>
 
 ## ❗ The Gaussian Peaks Problem
-Here we show how the ![7th PyKAN regression example](https://github.com/KindXiaoming/pykan/blob/master/docs/Examples/Example_7_continual_learning.ipynb) can be solved by EfficientKAN with the same performance as PyKAN.
+Here we show how the ![8th PyKAN regression example](https://github.com/KindXiaoming/pykan/blob/master/docs/Example/Example_8_continual_learning.ipynb) can be solved by EfficientKAN with the same performance as PyKAN.
 
 Read more on ![_Something different from the official results for KAN_](https://github.com/Blealtan/efficient-kan/issues/38)
 
