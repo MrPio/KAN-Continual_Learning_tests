@@ -118,3 +118,4 @@ After introducing the *sb_trainable* and *sp_trainable* on the EfficientKAN clas
 |-------------------|-----------------------------|-------------------------------------------------|
 | Valerio Morelli   | s1118781@studenti.univpm.it | [MrPio](https://github.com/MrPio)               |
 | Federica Paganica | s1116749@studenti.univpm.it | [Federica](https://github.com/federicapaganica) |
+| Alessandro Cacciatore | a.cacciatore1@unimc.it | [geronimaw](https://github.com/geronimaw) |
