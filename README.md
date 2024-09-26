@@ -1,13 +1,10 @@
 # Continual learning in KANs
 
-This repository contains the results of the tests carried out to prove the ability of the Kolmogorov-Arnold neural
-network to resist the catastrophic forgetting that heavily affects MLPs.
+This repository contains the codes for the paper [A preliminary study on continual learning in computer vision using Kolmogorov-Arnold Networks](https://arxiv.org/abs/2409.13550). We investigate the ability of Kolmogorov-Arnold Networks (KANs) to deal with computer vision tasks in a class-incremental learning scenario.
+
+KAN were presented by Liu and colleagues in their work ![KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756).
 
 ---
-
-### 📘 The results of these tests are presented in detail in this paper:
-
-[KANs Continual Learning [V2] - Morelli Valerio Federica Paganica.pdf](https://github.com/user-attachments/files/15993786/Kolmogorov_Arnold_Networks.pdf)
 
 ### 📙 The slideshow presented on the day of the exam:
 
@@ -21,40 +18,36 @@ network to resist the catastrophic forgetting that heavily affects MLPs.
 
 ## 📘 Table of Contents
 
-* [⬇️ Class-IL Scenario (INTER training set sorting)](#INTER)
-  * [MLPs vs KANs](#INTER1)
-  * [KAN-based and non-KAN-based convolutional nets](#INTER2)
+* [⬇️ Class-IL Scenario](#CLASS)
+  * [MLPs vs KANs](#CLASS1)
+  * [KAN-based and non-KAN-based convolutional nets](#CLASS2)
 * [❗ The Gaussian Peaks Problem](#EfficientKAN)
 * [👨🏻‍💻 Authors](#Authors)
 
-<a name="INTER"/></a>
+<a name="CLASS"/></a>
 
-## ⬇️ Class-IL Scenario (INTER training set sorting)
+## ⬇️ Class-IL Scenario
 
-🎬 The following video highlights the difference between MLPs and KANs in a Domain-IL scenario:
+<a name="CLASS1"/></a>
+### MLP vs PyKAN vs EffKAN
+🎬 The following videos highlight the difference between MLP, PyKAN (![PyKAN](https://github.com/KindXiaoming/pykan)), and EffKAN (![EfficientKAN](https://github.com/Blealtan/efficient-kan)) in a Class-IL scenario on the MNIST dataset. Each video shows the per-epoch predicitons of the corresponding model in the optimal hyper-parameter configuration.
 
-https://github.com/MrPio/KAN_tests/assets/22773005/b244367a-9af1-4b56-b005-bda6b788d810
 
-<img width="600rem" alt="confusion_matrix" src="https://github.com/MrPio/KAN-Continual_Learning_tests/assets/22773005/4e0561e9-32b8-44d3-ab01-8fd197451940"/>
+<img width="600rem" alt="confusion_matrix_MLP" src="https://github.com/user-attachments/assets/3640dd72-7d0c-4599-bfa1-624ad82578c8"/>
+<img width="600rem" alt="confusion_matrix_EffKAN" src="https://github.com/user-attachments/assets/d0f9bb21-5f83-45ae-8cc5-e5a91a01d086"/>
+<img width="600rem" alt="confusion_matrix_KAN" src="https://github.com/user-attachments/assets/1a6337c2-c324-4ac6-9fc0-3de7dbb40670"/>
 
-<a name="INTER1"/></a>
+The following test accuracy plots show the same trainin runs as the confusion matrices.
+<img width="600rem" alt="fig4plot_PyKAN" src="https://github.com/user-attachments/assets/07314cb4-751b-4a83-8548-504b9e32bd7d"/>
+<img width="600rem" alt="fig4plot_MLP" src="https://github.com/user-attachments/assets/edc8787c-04aa-4ac7-ba1e-9371a5013a4d"/>
+<img width="600rem" alt="fig4plot_EffKAN" src="https://github.com/user-attachments/assets/869828c7-2d5e-466d-916c-d712a582e3ef"/>
 
-### MLPs vs KANs
 
-Based on ![Convolutional-KANs by Blealtan](https://github.com/Blealtan/efficient-kan/tree/master)
-
-Learning Rate=10^-6:
-
-<img width="600rem" alt="INTER lr-6 MLP_KAN" src="https://github.com/user-attachments/assets/8708cf06-d117-471a-9657-a5764010a419"/>
-
-<a name="INTER2"/></a>
-
+<a name="CLASS2"/></a>
 ### KAN-based and non-KAN-based convolutional nets
+Based on ![Convolutional-KANs by AntonioTepsich](https://github.com/AntonioTepsich/Convolutional-KANs).
 
-Based on ![Convolutional-KANs by AntonioTepsich](https://github.com/AntonioTepsich/Convolutional-KANs)
-and on ![KANvolver by Subhransu Sekhar Bhattacharjee ](https://github.com/1ssb/torchkan/tree/main)
-
-<img width="600rem" alt="INTER lr-6 CONV" src="https://github.com/user-attachments/assets/c5332b11-f045-40cd-9aeb-83d2666d86b9"/>
+<img width="600rem" alt="ConvNetslr-6" src="[https://github.com/user-attachments/assets/c5332b11-f045-40cd-9aeb-83d2666d86b9](https://github.com/user-attachments/assets/b88e1dcf-baef-493e-af46-fc13c2c181bc)"/>
 
 <a name="EfficientKAN"></a>
 
@@ -65,7 +58,8 @@ Read more on ![_Something different from the official results for KAN_](https://
 
 After introducing the *sb_trainable* and *sp_trainable* on the EfficientKAN class, and setting them to `False` just like PyKAN does, the same results can be achieved:
 
-<img width="600rem" alt="Gaussian Peaks EfficientKAN" src="png/GaussianPeaksEfficientKAN.png"/>
+<img width="600rem" alt="GaussianPeaksEfficientKAN" src="https://github.com/user-attachments/assets/9475487e-6ce7-448e-8ac5-2713f604b390"/>
+<img width="600rem" alt="GaussianPeaksPyKAN" src="https://github.com/user-attachments/assets/b32523e7-c5bf-4829-a9da-7b2585d9a747"/>
 
 <a name="Authors"></a>
 
