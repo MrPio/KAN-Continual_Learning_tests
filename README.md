@@ -21,54 +21,11 @@ network to resist the catastrophic forgetting that heavily affects MLPs.
 
 ## 📘 Table of Contents
 
-* [📈 Testing different learning rate scales on MLPs and KANs](#LR)
-* [⬆️ Sorted MNIST training set (INTRA training set sorting)](#INTRA)
-  * [MLPs vs KANs](#INTRA1)
-  * [KAN-based and non-KAN-based convolutional nets](#INTRA2)
 * [⬇️ Class-IL Scenario (INTER training set sorting)](#INTER)
   * [MLPs vs KANs](#INTER1)
   * [KAN-based and non-KAN-based convolutional nets](#INTER2)
 * [❗ The Gaussian Peaks Problem](#EfficientKAN)
 * [👨🏻‍💻 Authors](#Authors)
-
-<a name="LR"/></a>
-
-## 📈 Testing different learning rate scales on MLPs and KANs on MNIST
-
-<img width="600rem" src="https://github.com/MrPio/KAN-Continual_Learning_tests/assets/22773005/f375374c-5890-4053-96bf-95ace0dda9bc"/>
-
-<a name="INTRA"/></a>
-
-## ⬆️ Sorted MNIST training set (INTRA training set sorting)
-
-The first test tries to understand the impact of a non-shuffled trainset on the training of the different architectures.
-This scenario is common in real-time applications where the order of the input data cannot be decided and the network
-may not see the sample of a particular class again.
-This is a deliberate attempt to make the network's training less effective because the order of the training sets, as is
-well known in machine learning, should always be random in machine learning.
-In these unfavourable conditions, the KANs prove to outperform the MLPs
-
-The training set is sorted as follows:
-
-<img width="600rem" src="https://github.com/MrPio/KAN-Continual_Learning_tests/assets/22773005/c7730268-f646-45b9-8587-0e4d742168db"/>
-
-When MLPs see a new, previously unseen digit at the same learning rate, they tend to become distorted more quickly:
-
-<img width="600rem" alt="INTRA dataset lr-5 ep1-2" src="https://github.com/MrPio/KAN-Continual_Learning_tests/assets/22773005/904e3324-47e5-4289-a8a8-694246622f03"/>
-
-The results of this test are:
-
-<a name="INTRA1"/></a>
-
-### MLPs vs KANs
-
-<img width="600rem" alt="INTRAdataset_NON-CONV" src="https://github.com/MrPio/KAN-Continual_Learning_tests/assets/22773005/0dbc7894-a8da-4cd3-9362-1ba48a767974"/>
-
-<a name="INTRA2"/></a>
-
-### KAN-based and non-KAN-based convolutional nets
-
-<img width="600rem" alt="INTRAdataset_CONV2" src="https://github.com/MrPio/KAN-Continual_Learning_tests/assets/22773005/0b731558-8ffe-4576-9f42-f24896eabbec"/>
 
 <a name="INTER"/></a>
 
