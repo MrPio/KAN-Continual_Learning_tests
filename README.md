@@ -32,10 +32,9 @@ KAN were presented by Liu and colleagues in their work ![KAN: Kolmogorov-Arnold 
 ### MLP vs PyKAN vs EffKAN
 🎬 The following videos highlight the difference between MLP, PyKAN (![PyKAN](https://github.com/KindXiaoming/pykan)), and EffKAN (![EfficientKAN](https://github.com/Blealtan/efficient-kan)) in a Class-IL scenario on the MNIST dataset. Each video shows the per-epoch predicitons of the corresponding model in the optimal hyper-parameter configuration.
 
-
-<img width="600rem" alt="confusion_matrix_MLP" src="https://github.com/user-attachments/assets/3640dd72-7d0c-4599-bfa1-624ad82578c8"/>
-<img width="600rem" alt="confusion_matrix_EffKAN" src="https://github.com/user-attachments/assets/d0f9bb21-5f83-45ae-8cc5-e5a91a01d086"/>
-<img width="600rem" alt="confusion_matrix_KAN" src="https://github.com/user-attachments/assets/1a6337c2-c324-4ac6-9fc0-3de7dbb40670"/>
+<video  width="600rem" alt="confusion_matrix_MLP" src="https://github.com/user-attachments/assets/3640dd72-7d0c-4599-bfa1-624ad82578c8"/>
+<video  width="600rem" alt="confusion_matrix_EffKAN" src="https://github.com/user-attachments/assets/d0f9bb21-5f83-45ae-8cc5-e5a91a01d086"/>
+<video  width="600rem" alt="confusion_matrix_KAN" src="https://github.com/user-attachments/assets/1a6337c2-c324-4ac6-9fc0-3de7dbb40670"/>
 
 The following test accuracy plots show the same trainin runs as the confusion matrices.
 <img width="600rem" alt="fig4plot_PyKAN" src="https://github.com/user-attachments/assets/07314cb4-751b-4a83-8548-504b9e32bd7d"/>
