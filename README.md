@@ -2,7 +2,7 @@
 
 This repository contains the codes for the paper [A preliminary study on continual learning in computer vision using Kolmogorov-Arnold Networks](https://arxiv.org/abs/2409.13550). We investigate the ability of Kolmogorov-Arnold Networks (KANs) to deal with computer vision tasks in a class-incremental learning scenario.
 
-KAN were presented by Liu and colleagues in their work [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756).
+KANs were presented by Liu and colleagues in their work [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756).
 
 ---
 
