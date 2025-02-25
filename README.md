@@ -12,7 +12,10 @@ KANs were presented by Liu and colleagues in their work [KAN: Kolmogorov-Arnold 
 
 [KANs Continual Learning [Slideshow PDF] - Morelli Valerio Paganica Federica.pdf](https://github.com/user-attachments/files/15993700/KANs.Continual.Learning.Morelli.Valerio.Paganica.Federica.pdf)
 
+[KANs Continual Learning [Thesis PDF] - Morelli Valerio Paganica Federica.pdf](https://github.com/user-attachments/files/18969362/Kolmogorov_Arnold_Networks-Continual.Learning.pdf)
+
 ---
+
 
 <a name="index"></a>
 
